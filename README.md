@@ -32,3 +32,7 @@ It empowers businesses to visualize the financial effects of discounting and dem
 
 Snapshots of the Dashboard Page
 ![image](https://github.com/user-attachments/assets/928ce7c3-db9b-437f-b647-6eb7a4a52cdd)
+
+**Image of Data Model**
+![image](https://github.com/user-attachments/assets/cb8a9270-2c82-42f6-9458-163a458316b2)
+
